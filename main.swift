@@ -22,3 +22,5 @@ func don(a:Int,b:Int)->Int{
 }
 var c=don(a:10,b:20)
 print(c)
+print(type(of: 3)) 
+print(type(of:4.5))
