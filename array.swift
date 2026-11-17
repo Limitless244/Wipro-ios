@@ -13,4 +13,6 @@ for i in arr{
 }
 var students=[105:"bharathraj",106:"sara",107:"Kumar"]
 students[105]="Suman"
-print(students[105])
+print(students[105]!)
+let std:[String:Any]=["Name":"bharath","Age":19,"Gender":"Male"]
+print(std["Name"]!)
